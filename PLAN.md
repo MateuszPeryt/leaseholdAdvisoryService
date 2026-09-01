@@ -20,3 +20,7 @@ The prototype will cover four common topics:
 Users can choose a common situation or write a short description. The app then
 shows a relevant topic, a short explanation, and suggested next steps.
 
+## Assumptions
+
+- The app will use simple, checked rules to match a user to a topic. It will not
+  use AI to make decisions.
