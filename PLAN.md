@@ -73,3 +73,10 @@ shows a relevant topic, a short explanation, and suggested next steps.
 ## Risks and review checks
 
 | Area          | Risk                                                      | What to check                                                                                   |
+| ------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Advice        | Information could be wrong or sound like legal advice.    | Content is reviewed, clear about limits, and has a fallback contact route.                      |
+| Accessibility | Someone may not be able to use the form.                  | Keyboard use, error messages, contrast/brightness, and mobile layout.                           |
+| Personal data | Users may enter sensitive details.                        | No data is stored, sent, logged, or used.                                                       |
+| Security      | Unsafe input or dependencies could create problems later. | User text is safely displayed, dependencies are kept up to date, and secrets are not committed. |
+| Matching      | Keywords may give the wrong topic.                        | Scenario priority, unclear result fallback, and tests for confusing examples.                   |
+| Testing       | Only testing the happy path misses problems.              | Empty, unclear, conflicting, keyboard, and small screens are tested.                            |
