@@ -34,3 +34,9 @@ shows a relevant topic, a short explanation, and suggested next steps.
   real launch.
 - The app will clearly say it is for England and Wales and provide a general
   contact route when it cannot help.
+
+## Task breakdown
+
+1. **Set up the project**
+   - Done means the app runs locally, uses TypeScript, and the README explains
+     how to run it.
