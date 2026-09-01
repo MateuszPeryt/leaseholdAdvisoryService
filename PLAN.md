@@ -64,3 +64,6 @@ shows a relevant topic, a short explanation, and suggested next steps.
 7. **Test and document**
    - Done means type checks, linting, and tests pass. Important empty and
      unclear inputs are tested, and the README documents any limits.
+8. **Write the review notes**
+   - Done means Part 3 includes what I built, what I left out, what I tested,
+     and how I used AI help.
