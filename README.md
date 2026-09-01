@@ -1,6 +1,6 @@
 # Leasehold Advisory Service prototype
 
-**Prepared by:** [add your name before submitting]
+**Prepared by:** Matthew Peryt
 **Date:** 1 September 2026
 
 A small take-home prototype for helping someone with a leasehold question find
