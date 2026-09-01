@@ -49,3 +49,11 @@ shows a relevant topic, a short explanation, and suggested next steps.
    - Done means a user can choose a scenario and optionally write a short
      description. Inputs have clear labels and a warning not to share personal
      information.
+
+4. **Match the enquiry to a topic**
+   - Done means a small, testable function returns a topic or a safe “we are not
+     sure” result.
+
+5. **Show next steps**
+   - Done means the result gives a plain-English explanation, a few useful
+     actions, a reminder of the advice limit, and a way to start again.
