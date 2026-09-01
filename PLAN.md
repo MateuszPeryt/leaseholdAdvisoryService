@@ -57,6 +57,7 @@ shows a relevant topic, a short explanation, and suggested next steps.
 5. **Show next steps**
    - Done means the result gives a plain-English explanation, a few useful
      actions, a reminder of the advice limit, and a way to start again.
+
 6. **Check accessibility and mobile use**
    - Done means the journey works with a keyboard, has clear focus and error
      messages, has good colour contrast, and works on a small screen.
@@ -64,6 +65,11 @@ shows a relevant topic, a short explanation, and suggested next steps.
 7. **Test and document**
    - Done means type checks, linting, and tests pass. Important empty and
      unclear inputs are tested, and the README documents any limits.
+
 8. **Write the review notes**
    - Done means Part 3 includes what I built, what I left out, what I tested,
      and how I used AI help.
+
+## Risks and review checks
+
+| Area          | Risk                                                      | What to check                                                                                   |
