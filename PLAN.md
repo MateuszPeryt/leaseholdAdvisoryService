@@ -26,3 +26,11 @@ shows a relevant topic, a short explanation, and suggested next steps.
   use AI to make decisions.
 - A chosen scenario will be used before keywords in free text. This makes the
   result predictable and easier to explain.
+- The app gives general information, not legal advice or a decision about a
+  person's case.
+- Users will be told not to enter names, addresses, case numbers, or financial
+  details. Their text will not be saved.
+- Content and contact details would need approval from LAS experts before a
+  real launch.
+- The app will clearly say it is for England and Wales and provide a general
+  contact route when it cannot help.
