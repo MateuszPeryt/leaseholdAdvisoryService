@@ -24,3 +24,5 @@ shows a relevant topic, a short explanation, and suggested next steps.
 
 - The app will use simple, checked rules to match a user to a topic. It will not
   use AI to make decisions.
+- A chosen scenario will be used before keywords in free text. This makes the
+  result predictable and easier to explain.
