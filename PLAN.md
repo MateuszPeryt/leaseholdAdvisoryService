@@ -40,3 +40,6 @@ shows a relevant topic, a short explanation, and suggested next steps.
 1. **Set up the project**
    - Done means the app runs locally, uses TypeScript, and the README explains
      how to run it.
+2. **Add content and rules**
+   - Done means topics, scenario choices, messages, and matching rules are kept
+     in typed data files, not mixed into the page components.
