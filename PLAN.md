@@ -10,6 +10,10 @@ The first version is for leaseholders and park homeowners in England and Wales.
 It should be simple to use on a phone and should not overwhelm someone with
 legal information.
 
+The prototype is useful if someone can complete it on a phone, understand the
+next step in their own words, understand that it is general information, and
+can get help if their problem does not match a topic.
+
 The prototype will cover four common topics:
 
 - service charges and bills;
